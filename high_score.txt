@@ -1,0 +1,5 @@
+abhinna arjun|25
+satyendra|5
+ishita|50
+aytre|15
+abcd|100efgh|30
